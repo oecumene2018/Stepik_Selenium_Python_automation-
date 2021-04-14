@@ -1,0 +1,9 @@
+# Test framework
+pytest==6.0.1
+pytest-rerunfailures==9.1.1
+
+# Selenium
+selenium==3.141.0
+
+# WebDriver
+webdriver-manager==3.2.2

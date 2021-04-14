@@ -1,0 +1,50 @@
+1611059725454	geckodriver	INFO	Listening on 127.0.0.1:53451
+1611059726466	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/7n/h9ms_w851jlflnwwwkvzhknr0000gn/T/rust_mozprofilegU6mui"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1611059728045	Marionette	INFO	Listening on port 53462
+1611059728106	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://selenium1py.pythonanywhere.com/ru/, line 374: ReferenceError: oscar is not defined
+1611059729316	Marionette	INFO	Stopped listening on port 53462
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1611060482858	geckodriver	INFO	Listening on 127.0.0.1:53753
+1611060482866	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/7n/h9ms_w851jlflnwwwkvzhknr0000gn/T/rust_mozprofile1R0qYO"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1611060484485	Marionette	INFO	Listening on port 53762
+1611060484524	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://selenium1py.pythonanywhere.com/ru/, line 374: ReferenceError: oscar is not defined
+1611060485761	Marionette	INFO	Stopped listening on port 53762
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1611143277376	geckodriver	INFO	Listening on 127.0.0.1:50769
+1611143278378	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/7n/h9ms_w851jlflnwwwkvzhknr0000gn/T/rust_mozprofile7gtJ2s"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1611143280557	Marionette	INFO	Listening on port 50781
+1611143280643	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://selenium1py.pythonanywhere.com/ru/, line 374: ReferenceError: oscar is not defined
+1611143281958	Marionette	INFO	Stopped listening on port 50781
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1611143282325	geckodriver	INFO	Listening on 127.0.0.1:50835
+1611143283336	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/7n/h9ms_w851jlflnwwwkvzhknr0000gn/T/rust_mozprofileKxOjm8"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1611143284843	Marionette	INFO	Listening on port 50846
+1611143284885	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://selenium1py.pythonanywhere.com/ru/, line 374: ReferenceError: oscar is not defined
+1611143286191	Marionette	INFO	Stopped listening on port 50846
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1611143286551	geckodriver	INFO	Listening on 127.0.0.1:50894
+1611143287560	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/7n/h9ms_w851jlflnwwwkvzhknr0000gn/T/rust_mozprofile4R1odL"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1611143289156	Marionette	INFO	Listening on port 50905
+1611143289223	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://selenium1py.pythonanywhere.com/ru/, line 374: ReferenceError: oscar is not defined
+1611143290486	Marionette	INFO	Stopped listening on port 50905
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
